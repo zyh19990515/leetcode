@@ -1,0 +1,5 @@
+﻿  链表.cpp
+E:\code\C\leetcode\leetcode\链表.cpp(174,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\code\C\leetcode\leetcode\链表.cpp(256,31): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\code\C\leetcode\leetcode\链表.cpp(99): warning C4715: “addNode”: 不是所有的控件路径都返回值
+  leetcode.vcxproj -> E:\code\C\leetcode\x64\Debug\leetcode.exe
